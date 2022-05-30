@@ -8,3 +8,4 @@
 - ⚡ My website: https://akex.dev/ 
 
 ![](https://github-readme-stats.vercel.app/api?username=akex06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![](https://github-readme-streak-stats.herokuapp.com/?user=akex06&theme=flag-india&hide_border=true)
