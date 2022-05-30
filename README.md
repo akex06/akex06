@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Tabby](https://tabbybot.xyz/)
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate with open source projects
-- 📫 How to reach me: Discord: Akex06#9139 Email: akex@akex.dec
+- 📫 How to reach me: Discord: Akex06#9139 Email: akex@akex.dev
 - 😄 Pronouns: he / him
 - ⚡ My website: https://akex.dev/ 
 
