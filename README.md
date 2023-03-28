@@ -15,7 +15,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%235391FE.svg?style=for-the-badge&logo=GNUBash&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%235391FE.svg?style=for-the-badge&logo=Flask&logoColor=white)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=akex06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
