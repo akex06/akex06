@@ -7,7 +7,7 @@
 - ⚡ My website: https://akex.dev/ 
 
 # 💻Tech Stack
-![Python - Pro](https://img.shields.io/badge/"Python - Pro"-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python - Pro](https://img.shields.io/badge/"Python-Pro"-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java - Begginer](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript - Intermediate](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQLite - Pro](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
